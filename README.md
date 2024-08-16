@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tomerkmor
 - 👀 I’m interested in Full-stuck
 - 🌱 I’m currently a self-learner
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: +972 53-420-2508
 
 <!---

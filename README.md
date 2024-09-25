@@ -1,6 +1,6 @@
-👋 Hi there! I’m @tomerkmor
-🌟 I’m passionate about full-stack development and always eager to learn!
-📚 Currently on a self-learning journey to enhance my skills.
+👋 Hi there! I’m @tomerkmor <br>
+🌟 I’m passionate about full-stack development and always eager to learn!<br>
+📚 Currently on a self-learning journey to enhance my skills.<br>
 📞 Feel free to reach out to me at +972 53-420-2508. Let’s connect!
 
 <!---
